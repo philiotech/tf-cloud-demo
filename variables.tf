@@ -1,6 +1,6 @@
 variable "random_min" {
   type        = number
-  default     = 100
+  default     = 1
 }
 
 variable "random_max" {
