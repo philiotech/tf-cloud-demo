@@ -7,5 +7,3 @@ terraform {
     }
   }
 }
-
-terraform workspace delete -force tf-cloud
